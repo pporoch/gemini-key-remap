@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gemini Key Remap</string>
+    <string name="keyboard_layouts_label">Change kcm file for Gemini PDA</string>
+    <string name="keyboard_layout_remap_gemini_us">Gemini PDA US Key Remap</string>
+</resources>
