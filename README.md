@@ -15,3 +15,7 @@ Change kcm file for Gemini PDA
 
 + 01パターンの **↑** と **↓** を入れ替え
 + **Space** の右が ← ↓ ↑ → に
+
+## 謝辞
+
+kcmファイルは、[8796nさんのソース](https://github.com/8796n/GeminiKCM)から流用させていただきました。
